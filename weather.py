@@ -1,7 +1,7 @@
 import urllib.request
 import json
 
-# Partners: [your name] and [your partner's name]
+# Partners: [Christian Edley] and [Myikel Bonham]
 # Hometown: Greensboro, NC
 
 latitude = 36.07
